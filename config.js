@@ -21,6 +21,7 @@ module.exports = _.merge({
         '272575383520673793', // riley
         '354062182461472771', // wacko
         '630817206145646602', // joey
+        '564268621354893312', // quinn
     ],
     feedbackFilePath: 'data/feedback.txt',
     dataJSONPath: 'data/data.json',
