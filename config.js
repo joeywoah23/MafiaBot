@@ -16,7 +16,11 @@ if (global.DEBUG) {
 }
 module.exports = _.merge({
     admins: [
-        '88020438474567680', // fool
+        '235250915215409154', // gabe
+        '302990688293879820', // john
+        '272575383520673793', // riley
+        '354062182461472771', // wacko
+        '630817206145646602', // joey
     ],
     feedbackFilePath: 'data/feedback.txt',
     dataJSONPath: 'data/data.json',
